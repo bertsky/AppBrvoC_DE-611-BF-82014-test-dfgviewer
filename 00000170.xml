@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000170.tif</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Styles/>
+  <Layout>
+    <Page ID="None" PHYSICAL_IMG_NR="0" WIDTH="2642" HEIGHT="2642">
+      <TopMargin VPOS="0" HPOS="0" HEIGHT="0" WIDTH="0"/>
+      <LeftMargin VPOS="0" HPOS="0" HEIGHT="0" WIDTH="0"/>
+      <RightMargin VPOS="0" HPOS="0" HEIGHT="0" WIDTH="0"/>
+      <BottomMargin VPOS="0" HPOS="0" HEIGHT="0" WIDTH="0"/>
+      <PrintSpace VPOS="0" HPOS="0" HEIGHT="2642" WIDTH="2642">
+        <TextBlock ID="r0" HEIGHT="1995" WIDTH="1602" HPOS="73" VPOS="224" IDNEXT="r1">
+          <TextLine ID="r0-dummy-TextLine" HEIGHT="1995" WIDTH="1602" HPOS="73" VPOS="224">
+            <String ID="r0-dummy-TextLine-dummy-Word" HEIGHT="1995" WIDTH="1602" HPOS="73" VPOS="224" CONTENT="Sie, bitte, den herzlichsten Dank für ihre lieben Zeilen, und namentlich die guten Worte, die sie mir künstlerisch sagt. Ich gehöre eben zu den Naturen, die, immer unzufrieden mit sich, nie zu einem frohen Vertrauen zu sich kommen, und so ist mir als Künstlerin sowohl, wie als Mensch, ein gutes Wort oft nöthig, natürlich doppelt anregend und beglückend, kommt es von Menschen, die mir in jeder Hinsicht hoch stehen. Ihre Tante schreibt mir, dass Sie ständig arbeiten – darf man wissen, was? greift das Schreiben Ihren Arm nicht an? "/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r1" HEIGHT="368" WIDTH="1559" HPOS="131" VPOS="2192">
+          <TextLine ID="r1-dummy-TextLine" HEIGHT="368" WIDTH="1559" HPOS="131" VPOS="2192">
+            <String ID="r1-dummy-TextLine-dummy-Word" HEIGHT="368" WIDTH="1559" HPOS="131" VPOS="2192" CONTENT="Wie geht es Ihren verehrten Eltern? zum Soldaten wird man Sie doch nicht nehmen, "/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
