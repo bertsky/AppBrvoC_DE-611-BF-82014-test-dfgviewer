@@ -18,18 +18,18 @@
   <mets:fileSec>
     <mets:fileGrp USE="ORIGINAL">
       <mets:file MIMETYPE="image/tiff" ID="FILE_00000170">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000170.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/blob/master/00000170.tif"/>
       </mets:file>
       <mets:file MIMETYPE="image/tiff" ID="FILE_00000370">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000370.tif"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/blob/master/00000370.tif"/>
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="FULLTEXT">
       <mets:file MIMETYPE="application/alto+xml" ID="FILE_00000170_ALTO">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000170.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/blob/master/00000170.xml"/>
       </mets:file>
       <mets:file MIMETYPE="application/alto+xml" ID="FILE_00000370_ALTO">
-        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="00000370.xml"/>
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/blob/master/00000370.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
