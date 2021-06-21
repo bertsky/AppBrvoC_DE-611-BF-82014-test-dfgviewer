@@ -33,6 +33,12 @@
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div TYPE="correspondence">
+      <mets:div ID="LOG_00000170" TYPE="section" LABEL="mit Text"/>
+      <mets:div ID="LOG_00000370" TYPE="section" LABEL="ohne Text"/>
+    </mets:div>
+  </mets:structMap>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
       <mets:div TYPE="page" ID="PHYS_00000170">
@@ -45,4 +51,8 @@
       </mets:div>
     </mets:div>
   </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:to="PHYS_00000170" xlink:from="LOG_00000170"/>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:to="PHYS_00000370" xlink:from="LOG_00000370"/>
+  </mets:structLink>
 </mets:mets>
