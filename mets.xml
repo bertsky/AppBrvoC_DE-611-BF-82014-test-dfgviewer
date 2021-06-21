@@ -20,10 +20,10 @@
     </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="ORIGINAL">
-      <mets:file MIMETYPE="image/tiff" ID="FILE_00000170">
+      <mets:file MIMETYPE="image/jpeg" ID="FILE_00000170">
         <mets:FLocat LOCTYPE="URL" xlink:href="https://raw.githubusercontent.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/master/00000170.jpg"/>
       </mets:file>
-      <mets:file MIMETYPE="image/tiff" ID="FILE_00000370">
+      <mets:file MIMETYPE="image/jpeg" ID="FILE_00000370">
         <mets:FLocat LOCTYPE="URL" xlink:href="https://raw.githubusercontent.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/master/00000370.jpg"/>
       </mets:file>
     </mets:fileGrp>
