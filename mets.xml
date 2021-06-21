@@ -25,10 +25,10 @@
       </mets:file>
     </mets:fileGrp>
     <mets:fileGrp USE="FULLTEXT">
-      <mets:file MIMETYPE="application/alto+xml" ID="FILE_00000170_ALTO">
+      <mets:file MIMETYPE="text/xml" ID="FILE_00000170_ALTO">
         <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/raw/master/00000170.xml"/>
       </mets:file>
-      <mets:file MIMETYPE="application/alto+xml" ID="FILE_00000370_ALTO">
+      <mets:file MIMETYPE="text/xml" ID="FILE_00000370_ALTO">
         <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/raw/master/00000370.xml"/>
       </mets:file>
     </mets:fileGrp>
