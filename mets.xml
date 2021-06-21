@@ -9,7 +9,10 @@
     <mets:mdWrap MDTYPE="MODS">
       <mets:xmlData>
         <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
-                </mods:mods>
+	  <mods:titleInfo>
+	    <mods:title>Schumann-Briefe</mods:title>
+	  </mods:titleInfo>
+        </mods:mods>
       </mets:xmlData>
     </mets:mdWrap>
   </mets:dmdSec>
@@ -34,7 +37,7 @@
     </mets:fileGrp>
   </mets:fileSec>
   <mets:structMap TYPE="LOGICAL">
-    <mets:div TYPE="correspondence">
+    <mets:div ADMID="AMD" DMDID="DMDLOG_0001" TYPE="correspondence">
       <mets:div ID="LOG_00000170" TYPE="section" LABEL="mit Text"/>
       <mets:div ID="LOG_00000370" TYPE="section" LABEL="ohne Text"/>
     </mets:div>
