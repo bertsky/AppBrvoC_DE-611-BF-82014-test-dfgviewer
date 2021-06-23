@@ -19,7 +19,7 @@
   <mets:amdSec ID="AMD">
     </mets:amdSec>
   <mets:fileSec>
-    <mets:fileGrp USE="ORIGINAL">
+    <mets:fileGrp USE="DEFAULT">
       <mets:file MIMETYPE="image/jpeg" ID="FILE_00000170">
         <mets:FLocat LOCTYPE="URL" xlink:href="https://raw.githubusercontent.com/bertsky/AppBrvoC_DE-611-BF-82014-test-dfgviewer/master/00000170.jpg"/>
       </mets:file>
