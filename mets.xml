@@ -44,11 +44,11 @@
   </mets:structMap>
   <mets:structMap TYPE="PHYSICAL">
     <mets:div TYPE="physSequence">
-      <mets:div TYPE="page" ID="PHYS_00000170">
+      <mets:div TYPE="page" ORDER="1" ID="PHYS_00000170">
         <mets:fptr FILEID="FILE_00000170"/>
         <mets:fptr FILEID="FILE_00000170_ALTO"/>
       </mets:div>
-      <mets:div TYPE="page" ID="PHYS_00000370">
+      <mets:div TYPE="page" ORDER="2" ID="PHYS_00000370">
         <mets:fptr FILEID="FILE_00000370"/>
         <mets:fptr FILEID="FILE_00000370_ALTO"/>
       </mets:div>
