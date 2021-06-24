@@ -17,6 +17,28 @@
     </mets:mdWrap>
   </mets:dmdSec>
   <mets:amdSec ID="AMD">
+<mets:rightsMD ID="RIGHTS">
+<mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS" >
+<mets:xmlData>
+<dv:rights>
+<dv:owner>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</dv:owner>
+<dv:ownerLogo>http://digital.slub-dresden.de/fileadmin/images/dfgviewer_logo_slub.gif</dv:ownerLogo>
+<dv:ownerSiteURL>http://www.slub-dresden.de/</dv:ownerSiteURL>
+<dv:ownerContact>mailto:digital@slub-dresden.de</dv:ownerContact>
+</dv:rights>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:rightsMD>
+<mets:digiprovMD ID="DIGIPROV" >
+<mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS" >
+<mets:xmlData>
+<dv:links>
+<dv:reference>http://dienste.slub-dresden.de/cgi-bin/FOZK.pl?PPN=DE-611-BF-82014</dv:reference>
+<dv:presentation>http://digital.slub-dresden.de/idDE-611-BF-82014</dv:presentation>
+</dv:links>
+</mets:xmlData>
+</mets:mdWrap>
+</mets:digiprovMD>  
     </mets:amdSec>
   <mets:fileSec>
     <mets:fileGrp USE="DEFAULT">
